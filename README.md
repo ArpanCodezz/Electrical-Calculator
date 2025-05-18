@@ -1,5 +1,3 @@
-# Electrical-Calculator
-
 # ⚡ Electrical Calculator in C
 
 A console-based electrical calculator built in C using Visual Studio 2022. It performs key electrical computations with a simple menu interface.
